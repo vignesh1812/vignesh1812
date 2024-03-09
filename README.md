@@ -6,6 +6,8 @@
 - 💬 Ask me about Tech
 - 📫 How to reach me :
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vigneshwaran-m-b06b28268/)
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:vigneshcareer1812@gmail.com)
+
 - 😄 Pronouns: Techie
 
 ### I code in
