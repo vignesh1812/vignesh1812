@@ -1,28 +1,18 @@
-# <img src="https://placeholder.com/150" alt="Vigneshwaran" width="100"/> Vigneshwaran - MERN Stack Developer
+## Hi there 👋 It's me Vigneshwaran
 
-## Skills
+**Position:** MERN Stack Developer @ EITB Global Info Solutions
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+- 🌱 I’m currently learning React Native
+- 💬 Ask me about Tech
+- 📫 How to reach me :
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/hareesh_dev) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+- 😄 Pronouns: Techie
 
-- <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5"/> HTML5
-- <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3"/> CSS3
-- <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/> JavaScript
-- <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React"/> React
-- <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/> Node.js
-- <img src="https://img.icons8.com/color/48/000000/express.png" alt="Express.js"/> Express.js
-- <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="Tailwind CSS"/> Tailwind CSS
-- <img src="https://img.icons8.com/color/48/000000/socket-io.png" alt="Socket.io"/> Socket.io
-- <img src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/> TypeScript
-- <img src="https://img.icons8.com/color/48/000000/redux.png" alt="Redux"/> Redux
-- <img src="https://img.icons8.com/color/48/000000/react.png" alt="React Query"/> React Query
-- <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB"/> MongoDB
-- <img src="https://img.icons8.com/color/48/000000/mysql.png" alt="MySQL"/> MySQL
+### I code in
+ <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react.png" alt="ReactJs"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="50" height="50" src="https://img.icons8.com/color/50/express-js.png" alt="express-js"/><img width="50" height="50" src="https://img.icons8.com/color/50/nextjs.png" alt="nextjs"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" /><img width="50" height="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/socket-io.png" alt="Socket.io"/> 
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/typescript.png" alt="TypeScript"/> 
+ <img height="50" width="50" height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" />
 
-## Current Employment
-
-### EITB Global info Solutions
-
-**Position:** MERN Stack Developer
-
-**Description:**
-Vigneshwaran is not just a developer; he's a visionary crafting digital experiences. Currently lending his expertise to EITB Global Solutions, Vigneshwaran spearheads MERN stack development with finesse. From front-end finesse to back-end wizardry, he weaves innovation into every project.
-
-For inquiries or collaboration opportunities, feel free to reach out to Vigneshwaran through [LinkedIn](https://www.linkedin.com/in/vigneshwaran/).
+### IDE and Tools I Use
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
