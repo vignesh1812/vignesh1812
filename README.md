@@ -1,7 +1,7 @@
 ## Hi there 👋 It's me Vigneshwaran
-
 **Position:** MERN Stack Developer @ EITB Global Info Solutions
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
+*Crafting MERN magic, one line at a time. 🚀✨*
+
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about Tech
 - 📫 How to reach me :
@@ -18,4 +18,4 @@
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 
-For inquiries or collaboration opportunities, feel free to reach out to Vigneshwaran through [LinkedIn](https://www.linkedin.com/in/vigneshwaran-m/).
+For inquiries or collaboration opportunities, feel free to reach out to Vigneshwaran through [Email](mailto:vigneshcareer1812@gmail.com).
