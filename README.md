@@ -1,6 +1,6 @@
 ## Hi there 👋 It's me Vigneshwaran
 **Position:** MERN Stack Developer @ EITB Global Info Solutions
-<br />**Crafting MERN magic, one line at a time. 🚀✨**
+<br />
 
 - 🌱 I’m currently learning React Native
 - 💬 Ask me about Tech
