@@ -1,5 +1,5 @@
 ## Hi there 👋 It's me Vigneshwaran
-**Position:** MERN Stack Developer @ EITB Global Info Solutions
+**Position:** Full Stack Developer
 <br />
 
 - 🌱 I’m currently learning React Native
